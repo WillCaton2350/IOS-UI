@@ -1,2 +1,2 @@
 # IOS-UI
-Unfinished IOS UI / Home page with bottom navigation bar
+IOS UI / Home page with bottom navigation bar (WOI)
